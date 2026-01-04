@@ -1,0 +1,7 @@
+[project]
+name = "rpi-copilot"
+version = "0.1.0"
+description = "GitHub Coding Agent on Raspberry Pi"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
